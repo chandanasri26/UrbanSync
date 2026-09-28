@@ -2,7 +2,6 @@
   <img src="assets/Urbansync%20logo.jpeg" alt="UrbanSync Logo" width="700">
 </div>
 
-# 🚦 UrbanSync
 
 ### Smart Traffic • Safer Roads • Better Cities
 
