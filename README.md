@@ -2,6 +2,7 @@
 
 <img src="assets/Urbansync%20logo.jpeg" alt="UrbanSync Logo" width="700">
 
+
 <h3>A ServiceNow-powered Urban Traffic & Transport Operations Management Platform</h3>
 
 <img src="https://img.shields.io/badge/Platform-ServiceNow-032D42?style=for-the-badge&logo=servicenow&logoColor=white">
