@@ -1,31 +1,57 @@
-# UrbanSync
+<div align="center">
 
-### One City. One Platform. Endless Mobility.
+<img src="docs/assets/urbansync-logo.png" alt="UrbanSync Logo" width="180"/>
 
-UrbanSync is a **ServiceNow-powered Urban Traffic and Public Transport Operations Management Platform** designed to improve how cities detect, manage, and resolve traffic incidents.
+# 🚦 UrbanSync
 
-The platform brings **citizens, traffic police, emergency services, road maintenance teams, public transport authorities, and city administrators** onto a single platform for faster incident response, better coordination, and improved urban mobility.
+### Smart Traffic. Safer Cities. Smarter Together.
 
----
+**AI-Powered Urban Traffic & Transport Operations Management Platform**
 
-## Problem Statement
+<p>
+  <img src="https://img.shields.io/badge/Platform-ServiceNow-00A1E0?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI-Agent-Enabled-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Virtual-Agent-Enabled-7B61FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Flow-Designer-FF9800?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Active-22C55E?style=for-the-badge"/>
+</p>
 
-Modern cities face several challenges while managing traffic incidents:
+<p>
+  <b>From Incident Reporting → Intelligent Coordination → Field Response → Resolution</b>
+</p>
 
-- Traffic accidents and vehicle breakdowns
-- Traffic signal failures
-- Road and infrastructure damage
-- Public transport disruptions
-- Delayed emergency response
-- Fragmented communication between different agencies
-- Limited real-time information for citizens
-- Lack of centralized monitoring and analytics
-
-Different departments often work using independent systems, phone calls, emails, or separate applications. This can delay communication, resource allocation, and incident resolution.
-
-UrbanSync addresses this problem by providing a **centralized traffic operations platform using ServiceNow**.
+</div>
 
 ---
+
+# 🌆 About UrbanSync
+
+UrbanSync is a **ServiceNow-based Urban Traffic and Transport Operations Management platform** designed to provide centralized visibility, intelligent incident handling, automated coordination, and faster field response.
+
+The platform connects citizens, traffic management teams, agencies, field responders, and city operations through a unified operational workflow.
+
+UrbanSync transforms a traffic incident from a simple report into a structured, trackable, and coordinated response.
+
+### The UrbanSync Journey
+
+```text
+Citizen Reports Incident
+          ↓
+Incident Captured
+          ↓
+Incident Validated
+          ↓
+Agency Identified
+          ↓
+Officer / Team Assigned
+          ↓
+Tasks Distributed
+          ↓
+Field Response
+          ↓
+Status Updated
+          ↓
+Incident Resolved
 
 ## Proposed Solution
 
