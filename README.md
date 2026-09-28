@@ -1,7 +1,7 @@
 <div align="center">
 
-<img src="docs/assets/urbansync-logo.png" alt="<img width="680" height="250" alt="WhatsApp Image 2026-09-28 at 22 55 05" src="https://github.com/user-attachments/assets/cdb99915-0b59-4397-a677-1e5a9f4dc286" />
-" width="180"/>
+<img src="docs/assets/urbansync-logo.png" alt="WhatsApp Image 2026-09-28 at 22 55 05" src="https://github.com/user-attachments/assets/cdb99915-0b59-4397-a677-1e5a9f4dc286" />
+
 
 # 🚦 UrbanSync
 
