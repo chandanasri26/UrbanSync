@@ -2,47 +2,73 @@
   <img src="assets/Urbansync%20logo.jpeg" alt="UrbanSync Logo" width="700">
 </div>
 
-
-### Smart Traffic • Safer Roads • Better Cities
-
 **A ServiceNow-powered Urban Traffic & Transport Operations Management Platform**
 
 <br>
 
-![ServiceNow](https://img.shields.io/badge/Platform-ServiceNow-032D42?style=for-the-badge&logo=servicenow)
+![ServiceNow](https://img.shields.io/badge/Platform-ServiceNow-032D42?style=for-the-badge&logo=servicenow&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-Traffic%20Intelligence-00A6A6?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/Source%20Control-GitHub-181717?style=for-the-badge&logo=github)
-![Status](https://img.shields.io/badge/Status-In%20Development-F59E0B?style=for-the-badge)
+![Virtual Agent](https://img.shields.io/badge/Virtual%20Agent-Enabled-7C3AED?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-Flow%20Designer-F59E0B?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In%20Development-22C55E?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🌆 About UrbanSync
+# 🌆 What is UrbanSync?
 
-**UrbanSync** is a ServiceNow-based **Urban Traffic & Transport Operations Management System** designed to centralize traffic incident management, agency coordination, field-resource allocation, route monitoring, diversion management, automation, analytics, and AI-assisted operations.
+**UrbanSync** is a centralized **Urban Traffic & Transport Operations Management Platform built on ServiceNow**.
 
-UrbanSync connects the major components of urban traffic response into a unified platform:
+Modern cities generate traffic-related incidents continuously — accidents, road blockages, congestion, vehicle breakdowns, road maintenance, diversions and other transportation disruptions. Managing these situations often involves multiple agencies, traffic control teams, field personnel, routes and resources.
+
+UrbanSync brings these operational activities into a **single connected ServiceNow platform**.
+
+Instead of handling traffic incidents through disconnected communication channels and manually maintained records, UrbanSync provides a structured workflow where an incident can be:
+
+> **Reported → Recorded → Classified → Assigned → Responded → Monitored → Resolved → Analyzed**
+
+The platform is designed around the concept of a **Traffic Management Center (TMC)**, providing operators with a centralized view of incidents, agencies, routes, resources and ongoing traffic operations.
+
+---
+
+# 🎯 The Problem UrbanSync Solves
+
+Urban traffic management involves several interconnected entities:
+
+- 🚨 Traffic incidents
+- 🏢 Government and emergency agencies
+- 🚓 Field resources
+- 🛣️ Traffic routes
+- 🔀 Diversion routes
+- 👷 Field personnel
+- 📡 Traffic information
+- 📱 Citizen reports
+- ⚙️ Operational workflows
+- 📊 Historical traffic data
+
+When these components are managed independently, operators may face:
 
 ```text
-                    🚦 URBANSYNC
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-        ▼                ▼                ▼
-   🚨 INCIDENT       🏢 AGENCY        🛣️ ROUTE
-        │                │                │
-        ▼                ▼                ▼
- 🚓 RESOURCES      🤝 COORDINATION   🔀 DIVERSION
-        │                │                │
-        └────────────────┼────────────────┘
-                         ▼
-                 ⚙️ AUTOMATION
-                         │
-              ┌──────────┴──────────┐
-              ▼                     ▼
-        📊 ANALYTICS          🤖 AI AGENT
-              │                     │
-              └──────────┬──────────┘
-                         ▼
-                 🌐 TMC OPERATIONS
+Incident Report
+      │
+      ▼
+Manual Verification
+      │
+      ▼
+Contact Different Agency
+      │
+      ▼
+Find Available Resource
+      │
+      ▼
+Identify Suitable Route
+      │
+      ▼
+Create Diversion
+      │
+      ▼
+Update Multiple Systems
+      │
+      ▼
+Resolve Incident
