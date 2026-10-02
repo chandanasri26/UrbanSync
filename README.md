@@ -223,11 +223,11 @@ UrbanSync is primarily developed using the **ServiceNow platform**, supported by
 
 | Team Member | Primary Role |
 |---|---|
-| **Rajalakshmi Kondoori** | Team Lead, Solution Architect & ServiceNow Application Developer |
-| **Dammannagari Anjali** | Workflow Automation & Backend Developer |
-| **Bobbili Chandana Sri** | Service Portal & UI/UX Developer |
-| **Sharanya Padala** | Integration & Mobile Developer |
-| **Devi Reddy Venkata Keerthana Reddy** | QA, Analytics & Documentation Lead |
+| **Rajalakshmi Kondoori** | Team Lead, Solution Architect & ServiceNow Application Developer, & Documentation Lead |
+| **Dammannagari Anjali** | Backend Development, TMC Operations, Analytics & Dashboard Development |
+| **Bobbili Chandana Sri** | Service Portal, Frontend & UI Development |
+| **Sharanya Padala** | Generative AI Integration, Virtual Agent Development, End-to-End Integration & Testing |
+| **Devi Reddy Venkata Keerthana Reddy** | Workflow Automation, CMDB & Infrastructure Management, Planned Maintenance, Mobile & Field Operations, Live Map, Service Portal Configuration, Data Configuration |
 
 ---
 
